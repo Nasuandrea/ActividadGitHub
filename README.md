@@ -1,4 +1,4 @@
-﻿# ActividadGitHub2
+﻿# ActividadGitHub
  
 1. Crea un nuevo repositorio remoto en GitHub que sea público
 2. Crea un readme
