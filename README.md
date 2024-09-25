@@ -18,3 +18,5 @@
 
 Entrega una imagen del Git graph del VSCode
 Añádeme en un .txt la URL hacía este repositorio de tu GitHub.
+
+![alt text](image.png)
